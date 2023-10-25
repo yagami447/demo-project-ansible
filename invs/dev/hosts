@@ -1,2 +1,5 @@
-[site]
-localhost ansible_connection=local
+[webserver]
+146.190.33.236
+
+[dbserver]
+146.190.121.167
